@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //All
+    <dimen name="dimen_40sdp">@dimen/_35sdp</dimen>
+    <dimen name="text_size">@dimen/_15sdp</dimen>
+    <dimen name="text_size_button">@dimen/_12sdp</dimen>
+    <dimen name="padding_left">@dimen/_5sdp</dimen>
+    <dimen name="margin">@dimen/_5sdp</dimen>
+
+
+    //main activity
+    <dimen name="edittext_width_MainActivity">@dimen/_260sdp</dimen>
+    <dimen name="button_width_MainActivity">@dimen/_120sdp</dimen>
+    <dimen name="button_marginBottom_MainActivity">@dimen/_80sdp</dimen>
+
+    //menu activity
+    <dimen name="button_width_MenuActivity">@dimen/_250sdp</dimen>
+    <dimen name="button1_width_MenuActivity">@dimen/_120sdp</dimen>
+    <dimen name="button_marginTop_MenuActivity">@dimen/_10sdp</dimen>
+
+    //item1 resources
+    <dimen name="stt_width_item1">@dimen/_30sdp</dimen>
+    <dimen name="height_item1">@dimen/_40sdp</dimen>
+    <dimen name="barcode_width_item1">@dimen/_130sdp</dimen>
+    <dimen name="Whs_width_item1">@dimen/_100sdp</dimen>
+    <dimen name="button_marginTop_item1">@dimen/_10sdp</dimen>
+
+    //item_Whs resources
+    <dimen name="marginTop_itemWHS">@dimen/_1sdp</dimen>
+    <dimen name="height_itemWHS">@dimen/_30sdp</dimen>
+
+    //bill
+    <dimen name="height_bill">@dimen/_40sdp</dimen>
+    <dimen name="width_bill">@dimen/_30sdp</dimen>
+    <dimen name="textview_width_bill">@dimen/_80sdp</dimen>
+
+</resources>
